@@ -1,3 +1,2 @@
-Uploaded all the Linkedin profiles 
-TaskCode.ipnb contain code for these tasks.It contain code for three task.
-
+1-Uploaded all the Linkedin profiles 
+2-TaskCode.ipnb contain code for these tasks.It contain code for three task.
